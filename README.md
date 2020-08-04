@@ -36,4 +36,3 @@
  Badge:
  https://img.shields.io/badge/Current-Maintained-red.svg)(https://shields.io/) 
 
- <img src= https://avatars2.githubusercontent.com/u/60279300?v=4> 
